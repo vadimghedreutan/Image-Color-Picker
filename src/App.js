@@ -49,7 +49,7 @@ class App extends Component {
           <Header />
           <section className="section-main">
             <div className="container">
-              <div>
+              <div className="mobile-center">
                 <ImageClickBtn onSubmitBtn = {this.onSubmitBtn} />
               </div>
               <div>
